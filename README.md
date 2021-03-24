@@ -11,7 +11,7 @@ A Path Finding Visualizer using python and pygame
 
 - Just run the [astargyi.py](./astargui.py) file to run the program
 
-## Instructions
+## Instructions:
 
 - The first left click fixes the starting position.
 - The secont left click creates the final position.
