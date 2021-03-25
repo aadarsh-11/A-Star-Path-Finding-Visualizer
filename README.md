@@ -4,7 +4,7 @@ A Path Finding Visualizer using python and pygame
 
 ## How to use?
 
-- Clone the repo and install dependencies using thid command in the terminal: 
+- Clone the repo and install dependencies by using this command in the terminal: 
 
       pip install -r requirments.txt
 
