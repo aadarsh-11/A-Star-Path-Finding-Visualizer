@@ -6,7 +6,7 @@ A Path Finding Visualizer using python and pygame
 
 - Clone the repo and install dependencies by using this command in the terminal: 
 
-      pip install -r requirments.txt
+      pip install -r requirements.txt
 
 
 - Just run the [astargyi.py](./astargui.py) file to run the program
